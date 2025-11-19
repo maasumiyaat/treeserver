@@ -1,4 +1,4 @@
-module github.com/yourusername/treeserver
+module github.com/maasumiyaat/treeserver
 
 go 1.20
 
